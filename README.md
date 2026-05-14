@@ -1,5 +1,5 @@
 # WangNeng-Fast-Run
-王能快跑App
+王能快跑App(目前仅支持iPad)
 
 在王能快跑中有4个角色
 
